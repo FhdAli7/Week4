@@ -1,0 +1,69 @@
+PS C:\Users\Fahad\watson-streaming-stt> python transcribe.py -t 10
+* recording
+hi 
+hi 
+are you 
+are you 
+are you aware 
+are you over 
+are you over 
+are you over the head 
+are you over the head 
+are you over the head 
+but you 
+but you 
+but you 
+but you 
+but you're okay 
+are you okay 
+are you okay 
+well 
+well for 
+thank
+thank
+thank
+thank you
+thank you
+thank you
+thank you
+thank you
+* done recording
+thank you
+PS C:\Users\Fahad\watson-streaming-stt> python transcribe.py -t 10
+* recording
+hi 
+hi 
+hi 
+hi 
+hi 
+hi 
+hi 
+hi 
+well 
+okay 
+okay 
+okay 
+hi 
+hi 
+hello 
+hello 
+hello 
+what 
+hi how are you 
+hi how are you 
+hi how are you 
+hi how are you 
+hi how are you 
+hi how are you 
+hi how are you 
+I 
+I 
+how do 
+how do you 
+* done recording
+how do you feel 
+how do you follow 
+how do you find 
+how do you find 
+how do you fight 
+how do you fight 
